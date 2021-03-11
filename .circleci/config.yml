@@ -1,0 +1,16 @@
+version: 2.1
+
+jobs:
+  create_infrastructure:
+    docker:
+    - image: 
+    steps:
+
+  configure_infrastructure:
+      docker:
+      - image: 
+      steps:
+
+workflows:
+  jobs:
+  
